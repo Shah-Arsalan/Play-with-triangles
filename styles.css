@@ -41,6 +41,38 @@ body{
     flex-direction:column;
     width: 50vw;
     
-   
+}
+
+.angle-input{
+    display: block;
+}
+
+#base{
+    display: block;
+
+}
+
+#height{
+    display: block;
+}
+
+#input-side1{
+    display: block;
+}
+
+#input-side2{
+    display: block;
     
+}
+
+#check{
+    margin-top: 2rem;
+}
+
+.check{
+    margin-top: 2rem;
+}
+
+.button{
+    margin-top: 2rem;
 }

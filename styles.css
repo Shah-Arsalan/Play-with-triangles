@@ -33,3 +33,14 @@
 body{
     background-color: grey;
 }
+
+
+.container{
+    margin: auto;
+    display: inline;
+    flex-direction:column;
+    width: 50vw;
+    
+   
+    
+}

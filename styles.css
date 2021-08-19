@@ -1,0 +1,35 @@
+.navigation-bar{
+    background-color: black;
+    padding:.5rem;
+    color:white;
+    border-radius: 1rem;
+
+}
+
+ .list-of-nav{
+    text-align: right;
+    padding-top:.1rem;
+}
+
+.div-for-nav{
+    font-weight: bold;
+}
+
+.nav-list{
+    display:inline;
+    padding: 0.5rem;
+}
+
+
+.navigation-bar .link{
+    color:white;
+}
+
+
+.link{
+    text-decoration: none;
+}
+
+body{
+    background-color: grey;
+}

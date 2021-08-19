@@ -1,7 +1,7 @@
-const QuizForm = document.querySelector(".form")
-const CheckButton = document.querySector(".output")
-elector(".button")
-const OutputDiv = document.querySel
+const QuizForm = document.querySelector(".form");
+const CheckButton = document.querySelector(".button");
+
+const OutputDiv = document.querySelector(".output");
 const rightanswers = ["3","180","isoceles","130"];
 
 function answer (){
